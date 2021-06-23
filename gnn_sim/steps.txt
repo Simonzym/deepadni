@@ -1,0 +1,4 @@
+1. build dataset for graph labels and num_nodes
+2. build dataset for edges (source, target)
+3. build dataset for nodes (node attributes)
+4. run simulations for gnn.
