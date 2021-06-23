@@ -14,5 +14,5 @@
 5. Transformer.py: transformer encoder as sequential model;
 6. gnn.py: GNN as sequential model.
 
-##gnn_sim (Python code)
+## gnn_sim (Python code)
 The same as cnn_gnn, but for simulated data.
